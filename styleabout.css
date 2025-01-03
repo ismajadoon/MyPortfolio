@@ -1,0 +1,87 @@
+.background{
+    background-image: url(plum.jpeg);
+    height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.home{
+    border: 2vh solid pink ;
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-right: 8%;
+    float: right;
+    padding: 10px;
+    text-align: center;
+    display: inline-flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: pink;
+    a{text-decoration: none} ;
+    font-size: large;
+}
+.home:hover{
+    box-shadow: 10px 10px 10px purple;
+}
+.contact{
+        border: 2vh solid pink;
+        border-radius: 20px;
+        float: right;
+        padding: 10px;
+        margin-right: 2%;
+        margin-top: 2%;
+        display: inline-flex;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: pink;
+        a{text-decoration: none} ;
+        font-size: large;
+    }
+.contact:hover{
+        box-shadow: 10px 10px 10px purple;
+    }
+.services{
+        border: 2vh solid pink;
+        float: right;
+        border-radius: 20px;
+        padding: 10px;
+        margin-right: 2%;
+        margin-top: 2%;
+        text-align: right;
+        display: inline-flex;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: pink;
+        a{text-decoration: none} ;
+        font-size: large;
+    }
+.services:hover{
+        box-shadow: 10px 10px 10px purple;
+}
+.boldtext{
+    margin-left: 80px;
+    padding-top: 7px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: pink;
+    font-size: 4vh;
+    
+}
+.paragraph{
+    
+    margin-left: 50px;
+    color: pink;
+    font-size:large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    
+    position: relative;
+    float: right;
+    margin-right: 20vh;
+    margin-top: -20vh;
+}
+.thank{
+    font-size: 3vh;
+  
+}
